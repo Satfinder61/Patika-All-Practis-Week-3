@@ -12,3 +12,6 @@
 
 # Four and Five Multiples
 <br> Write a program that prints powers of 4 and 5 up to the number entered with Java loops.
+
+# Find The Exponential Number
+<br> Use the "For Loop" program that calculates exponential numbers with the values entered by the user in Java.
