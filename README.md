@@ -15,3 +15,7 @@
 
 # Find The Exponential Number
 <br> Use the "For Loop" program that calculates exponential numbers with the values entered by the user in Java.
+
+# Harmonic Increase
+<br> Write a program to find the harmonic series of a number entered in Java
+<br> Harmonic Mean = n /[(1/a) + (1/b)+ (1/c)+(1/d)+….]
