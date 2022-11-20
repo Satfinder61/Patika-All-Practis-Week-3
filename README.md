@@ -6,3 +6,6 @@
 # FindSumDivideFour by Ihsan Melih Sisman
 <br> With Java loops, we write a program that accepts input from the user until a single number is entered and adds even and multiples
 <br> of 4 from the entered values and prints it on the screen.
+
+# ATM With Switch Case by Ihsan Melih Sisman
+<br> It applies ATM application using switch-case.
