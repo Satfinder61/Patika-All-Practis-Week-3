@@ -9,3 +9,6 @@
 
 # ATM With Switch Case
 <br> It applies ATM application using switch-case.
+
+# Four and Five Multiples
+<br> Write a program that prints powers of 4 and 5 up to the number entered with Java loops.
